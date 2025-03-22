@@ -29,10 +29,10 @@ para o hospital em caso de um novo surto de COVID-19.
 - Recomendar ações a serem tomadas caso um novo surto aconteça
 
 **<ins>Notebooks criados:</ins>**
-**- 00_Descrição_da_infra.md**
-**- 01_ETL_COVID_Preprocessing.ipynb**
-**- 02_COVID_Data_Analysis.ipynb**
-**- 03_Dashboard.ipynb**
+- **00_Descrição_da_infra.md**
+- **01_ETL_COVID_Preprocessing.ipynb**
+- **02_COVID_Data_Analysis.ipynb**
+- **03_Dashboard.ipynb**
 
 **Integrantes do Grupo 15:**
 - Athos Matheus Pugliese da Silva
