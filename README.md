@@ -32,7 +32,18 @@ para o hospital em caso de um novo surto de COVID-19.
 - **00_Descrição_da_infra.md**: Dados relevantes sobre a infraestrutura criada para a realização da analise.
 - **01_ETL_COVID_Preprocessing.ipynb**: Etapas seguidas para realizar o preprocessamento da analise, preparação de dados originarios da base de dados (RAW).
 - **02_COVID_Data_Analysis.ipynb**: Etapas seguidas para realizar a analise de dados, respondendo perguntas do presente, com dados já tratados.
-- **03_Dashboard.ipynb**: Visualização de dados relevantes sobre as analises realizadas. 
+- **03_Dashboard.ipynb**: Visualização de dados relevantes sobre as analises realizadas.
+
+**<ins>Dashboard imagens:</ins>**
+![newplot](https://github.com/user-attachments/assets/2c198f89-08ea-491e-899d-3b50290b09bc)
+![newplot (1)](https://github.com/user-attachments/assets/3db399f4-b346-4fdd-a471-df925c141a67)
+![newplot (2)](https://github.com/user-attachments/assets/158138df-2e5b-48e6-93f0-e87e27c2d4e1)
+![newplot (3)](https://github.com/user-attachments/assets/3678dbea-da73-42a5-9b42-5e8682b18d20)
+![newplot (4)](https://github.com/user-attachments/assets/e86f8707-87b2-4e42-84e9-02be3fd49d1c)
+![newplot (5)](https://github.com/user-attachments/assets/e79bb941-12f9-4d7b-b3bb-bbb67d0a34e4)
+![newplot (6)](https://github.com/user-attachments/assets/60c914a2-35c2-48af-b7b6-cedbfcc0c77b)
+![newplot (7)](https://github.com/user-attachments/assets/50be12b4-304b-4e0b-a271-2de3d50cd92c)
+
 
 **Integrantes do Grupo 15:**
 - Athos Matheus Pugliese da Silva
